@@ -4,4 +4,4 @@
 - 카드사 고객이탈에 관련한 EDA분석
 - 카테고리 별 분석 
 - 수치화 시각분석 
-- XGBoost, Random Forest, SGD, SVC 분류기 별 Score, Cross_Val, Roc_Auc 분석
+- XGBoost, Random Forest, SGD, SVC Classifier 별 Score, Cross_Val, Roc_Auc 분석
